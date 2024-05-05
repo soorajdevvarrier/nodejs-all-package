@@ -1,6 +1,6 @@
 {
   "name": "nodejs-all-package",
-  "version": "0.0.1-alpha.1",
+  "version": "1.0.1-alpha.0",
   "description": "All Node JS common libraries and implementations artifact",
   "main": "index.mjs",
   "type": "module",
