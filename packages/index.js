@@ -13,5 +13,7 @@ import * as swaggerAutogen from "swagger-autogen";
 import * as swaggerUiExpress from "swagger-ui-express";
 import * as winston from "winston";
 import * as winstonMongodb from "winston-mongodb";
+import * as express from 'express';
+import * as responseTime from 'response-time';
 
-export { axios, bcrypt, bodyParser, compression, cors, exporessValidator, helmet, jsonWebToken, jwtDecode, moment, mongodb, swaggerAutogen, swaggerUiExpress, winston, winstonMongodb }
+export { axios, bcrypt, bodyParser, compression, cors, exporessValidator, helmet, jsonWebToken, jwtDecode, moment, mongodb, swaggerAutogen, swaggerUiExpress, winston, winstonMongodb, express, responseTime }
